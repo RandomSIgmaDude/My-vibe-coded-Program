@@ -14,7 +14,7 @@ from pynput import keyboard, mouse
 
 # ====== Configuration ======
 DELAY = 2                   # Seconds to wait before the second press
-PROCESS_NAME = "capcut.exe"   # Lowercase process name (test with VS Code using "code.exe")
+PROCESS_NAME = "capcut.exe"   # Lowercase process name (test with VS Code using "code.exe")***************** any program file up to you
 ZONE = (929, 523, 972, 560)   # Play button area in CapCut (x1, y1, x2, y2)
 PRINT_POS = True              # Display click coordinates
 STOP_KEY = keyboard.Key.f12   # Key to exit the script

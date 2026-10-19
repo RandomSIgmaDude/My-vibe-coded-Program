@@ -10,7 +10,7 @@ import ctypes
 import sys
 
 # ---- CONFIG: change this to your actual wallpaper folder ----
-WALLPAPER_FOLDER = r"D:\T2H\Pictures\WindowSpotlightImages\scrub"
+WALLPAPER_FOLDER = r"" #your wallpaper folder path **********************************************
 
 VALID_EXTENSIONS = (".jpg", ".jpeg", ".png", ".bmp")
 
